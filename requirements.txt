@@ -2,7 +2,3 @@ pandas
 streamlit
 openpyxl
 plotly
-2.  **Sube todo a GitHub**:
-* `app.py` (el código que te generé arriba).
-* `requirements.txt`.
-* (Opcional) Tu archivo Excel, aunque con este código el usuario puede subir el suyo.
